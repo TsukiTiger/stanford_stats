@@ -1,0 +1,17 @@
+{
+  "final_acc": 0.668702995777428,
+  "final_thr": 0.505,
+  "weights": [
+    0.06027937546378409,
+    0.0,
+    0.0,
+    0.939720624536216
+  ],
+  "n_features_after_FE": 100,
+  "seeds": [
+    42,
+    777
+  ],
+  "used_catboost": false,
+  "stack_meta": "xgb"
+}

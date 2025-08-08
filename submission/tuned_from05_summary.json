@@ -1,0 +1,67 @@
+{
+  "base_file": "submission_05.csv",
+  "k_list": [
+    1,
+    2
+  ],
+  "alpha_list": [
+    0.25,
+    0.3,
+    0.35
+  ],
+  "use_knn": 1,
+  "neighbors": 25,
+  "outputs": [
+    "tuned_from05_k1_a0.25.csv",
+    "tuned_from05_k1_a0.30.csv",
+    "tuned_from05_k1_a0.35.csv",
+    "tuned_from05_k2_a0.25.csv",
+    "tuned_from05_k2_a0.30.csv",
+    "tuned_from05_k2_a0.35.csv"
+  ],
+  "flip_reports": [
+    {
+      "file": "tuned_from05_k1_a0.25.csv",
+      "k": 1,
+      "alpha": 0.25,
+      "num_flips": 0,
+      "first_50_indexes": []
+    },
+    {
+      "file": "tuned_from05_k1_a0.30.csv",
+      "k": 1,
+      "alpha": 0.3,
+      "num_flips": 0,
+      "first_50_indexes": []
+    },
+    {
+      "file": "tuned_from05_k1_a0.35.csv",
+      "k": 1,
+      "alpha": 0.35,
+      "num_flips": 0,
+      "first_50_indexes": []
+    },
+    {
+      "file": "tuned_from05_k2_a0.25.csv",
+      "k": 2,
+      "alpha": 0.25,
+      "num_flips": 0,
+      "first_50_indexes": []
+    },
+    {
+      "file": "tuned_from05_k2_a0.30.csv",
+      "k": 2,
+      "alpha": 0.3,
+      "num_flips": 0,
+      "first_50_indexes": []
+    },
+    {
+      "file": "tuned_from05_k2_a0.35.csv",
+      "k": 2,
+      "alpha": 0.35,
+      "num_flips": 0,
+      "first_50_indexes": []
+    }
+  ],
+  "note_metric": "Leaderboard Accuracy (we generate candidates; you report the best LB)."
+}

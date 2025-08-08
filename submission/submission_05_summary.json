@@ -1,0 +1,11 @@
+{
+  "best_oof_acc": 0.6824076156210179,
+  "best_threshold": 0.5275,
+  "weights": [
+    0.1,
+    0.5,
+    0.4
+  ],
+  "seed": 777,
+  "lgb_params": {
+    "n_estimators": 

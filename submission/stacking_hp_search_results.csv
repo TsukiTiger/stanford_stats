@@ -1,0 +1,10 @@
+xgb_params,lgbm_params,rf_params,meta_params,mean_train_acc,mean_cv_acc
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 500, 'max_depth': 24}",{'C': 1.0},0.7641543804884577,0.6673537702812312
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 500, 'max_depth': 24}",{'C': 0.5},0.7671620262581793,0.6674412218704742
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 32}",{'C': 1.0},0.7716563178312688,0.6671663834939193
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 1000, 'max_depth': 32}",{'C': 0.5},0.7751386906134565,0.6671663850545655
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 2000, 'max_depth': 20, 'learning_rate': 0.003}","{'n_estimators': 500, 'max_depth': 24}",{'C': 1.0},0.7634516632596766,0.6670539397166858
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 2000, 'max_depth': 20, 'learning_rate': 0.003}","{'n_estimators': 500, 'max_depth': 24}",{'C': 0.5},0.7663250106946096,0.6671913624164171
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 2000, 'max_depth': 20, 'learning_rate': 0.003}","{'n_estimators': 1000, 'max_depth': 32}",{'C': 1.0},0.7708130575371566,0.6672288428951718
+"{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 2000, 'max_depth': 20, 'learning_rate': 0.003}","{'n_estimators': 1000, 'max_depth': 32}",{'C': 0.5},0.7741455159149946,0.6673787601282524
+"{'n_estimators': 2000, 'max_depth': 20, 'learning_rate': 0.003}","{'n_estimators': 1000, 'max_depth': 12, 'learning_rate': 0.005}","{'n_estimators': 500, 'max_depth': 24}",{'C': 1.0},0.760425276323864,0.6678659673359094
